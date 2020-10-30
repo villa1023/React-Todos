@@ -1,3 +1,6 @@
+#Hello! This was a very simple todo list application I created with React to learn more about React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
